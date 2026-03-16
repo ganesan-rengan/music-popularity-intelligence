@@ -1,0 +1,4 @@
+Model,Task,Metric,Score,RMSE/Std
+Random Forest,Classification,F1 Score,0.6391,0.0129
+XGBoost,Classification,F1 Score,0.6405,0.0085
+Gradient Boosting,Regression,R²,0.302,1.4137
