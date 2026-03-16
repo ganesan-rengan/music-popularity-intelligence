@@ -152,7 +152,10 @@ jupyter lab
 
 ## 📌 Dataset
 
-- **Source:** Spotify & YouTube combined dataset
+- **Source:** [Spotify & YouTube Dataset — Kaggle](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
 - **Rows:** 20,718 songs
 - **Columns:** 28 features
 - **Target:** Spotify Streams + Platform Classification
+
+> Dataset not included in this repo.
+> Download from Kaggle and place in `data/raw/Spotify_Youtube.csv`
